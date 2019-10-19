@@ -3,5 +3,3 @@ env.py
 __pychache__
 .~c9*
 *.png
-static/
-media/
