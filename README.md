@@ -58,13 +58,11 @@ Table of Contents</h2>
   <a id="user-content-ux" class="anchor" aria-hidden="true" href="#ux"></a>
 UX</h2>
 
- <p>As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.</p>
-  <p>The initial design of the website was done using pen & paper - the design was not stored electronically but apart from a few enhancements; I have stuck rigid to the initial design.</p>
-  <p>This project is a simple 4-page website primarily designed to be as user friendly as possible.       It has easy to see and click navigational buttons which will take the user to a new page on the website.  There are no external pages where a user might get lost.  But primarily the site is designed to give the user information (either historical, factual, visual, audible) in an uncomplicated manner.</p>
-  <p>There are links to the original pen & paper design which can be found in the folder website design that I created as part of the design process.</p>
-  <p>Keeping with the spirit of the bands ‘psychedelia’ image, I tried to use colours as a focal point to give the feel of what it would be like in the 60’s.  Many of my colleagues in work remarked (in a positive way) the clever use of colour which matched parts of the Logo and the navigation buttons.</p>
-
- <h2>
+ <p>This is an online store which has a variety of products relating to the Celtic Culture found throughout Europe and UK.  Every product has an image and a product description and also a price which is set as GB Pounds.  The user can just browse the products, alternatively, the user can register their details, login and logout, and also purchase the products using the online payment system.</p>
+  <p>There is an opportunity for the user to register their details such as email address, password, username, these are essential if the user wishes to purchase any products.</p>
+  <p>The online payment system is active, therefore, caution needs to heeded here as if the user enters valid card details their card will debited.  But as these products are ficticious (as I don't own them) this will impact the user financially and give a poor user experience.  But for testing purposes, I encourage the user to test purchasing using the 4242 test card method.</p>
+  <p>Password changes synced through Google Mail, therefore, any user can change their password (password reset if the orginal password is fogotten).</p>
+   <h2>
   <a id="user-content-features" class="anchor" aria-hidden="true" href="#features"></a>
 Features</h2>
 <ol>
