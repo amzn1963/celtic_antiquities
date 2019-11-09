@@ -71,13 +71,13 @@ Features</h2>
   <a id="user-content-home-page" class="anchor" aria-hidden="true" href="#home-page"></a>
 Home Page</h3>
 
- <p>This page gives the user all the band information from current members (pictures and a short bio) but also a timeline of events for the initial years.</p>
+ <p>This page gives the user all the products that are for sale with prices and a search box where the user can enter key words to assist.  It also has Register & Login and shopping cart icons which are active on the navigation bar.</p>
 
   </li>
  <li>
  <h3>
-  <a id="user-content-music-page" class="anchor" aria-hidden="true" href="#music-page"></a>
-Music Page</h3>
+  <a id="user-content-login-page" class="anchor" aria-hidden="true" href="#login-page"></a>
+Login Page</h3>
 
  <p>This page gives the user a tasting session of 5 tracks by the band (again including a write up of each track) but also a discography of albums released by the band.</p>
 
