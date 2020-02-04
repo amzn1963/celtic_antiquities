@@ -1,215 +1,115 @@
- [![Build Status](https://travis-ci.org/amzn1963/celtic_antiquities.svg?branch=master)](https://travis-ci.org/amzn1963/celtic_antiquities)
- <h1>
-<a id="user-content-celtic_antiquities" class="anchor" aria-hidden="true" href="#celtic_antiquities"></a>
+[![Build Status](https://travis-ci.org/amzn1963/celtic_antiquities.svg?branch=master)](https://travis-ci.org/amzn1963/celtic_antiquities)
+<h1>
+<a id="user-content-celtic-antiquities" class="anchor" aria-hidden="true" href="#celtic-antiquities"></a>
 Celtic Antiquities</h1>
 
- <p>This is the final milestone project which showcases an online store where users can browse the products for sale, register their details, login and logout and also pay for their purchases using a secure payment platform.</p>
-
+<p>This is the final milestone project which showcases an online store where users can browse the products for sale, register their details, login and logout and also pay for their purchases using a secure payment platform.</p>
 
 <h2>
 <a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents"></a>
 Table of Contents</h2>
 <ol start="2">
- <li>
-  <a href="#ux">UX</a>
- </li>
- <li>
-  <a href="#features">FEATURES</a>
-   <ol>
     <li>
-     <a href="#home-page">Home Page</a>
+    <a href="#ux">UX</a>
     </li>
     <li>
-     <a href="#login-page">Login Page</a>
+    <a href="#features">FEATURES</a>
+        <ol>
+    <li>
+    <a href="#home-page">Home Page</a>
     </li>
     <li>
-     <a href="#registration-page">Register Page</a>
+    <a href="#register-page">Register Page</a>
     </li>
     <li>
-     <a href="#checkout-page">Payment Page</a>
+    <a href="#login-page">Login Page</a>
     </li>
     <li>
-     <a href="#produts-page">Products Page</a>
+    <a href="#password-page">Password Page</a>
     </li>
     <li>
-     <a href="#password-reset">Password Page</a>
+    <a href="#payment-page">Payment Page</a>
     </li>
     <li>
-     <a href="#search">Search Facility</a>
+    <a href="#products-page">Products Page</a>
     </li>
-   </ol>
- <li>
-  <a href="#features-left-to-implement">FEATURES LEFT TO IMPLEMENT</a>
- </li>
- <li>
-  <a href="#technologies-used">TECHNOLOGIES USED</a>
- </li>
- <li>
-  <a href="#testing">TESTING</a>
- </li>
- <li>
-  <a href="#deployment">DEPLOYMENT</a>
- </li>
- <li>
-  <a href="#credits">CREDITS</a>
- </li>
+    <li>
+    <a href="#search-facility">Search Facility</a>
+    </li>
+        </ol>
+    <li>
+    <a href="#features-left-to-implement">FEATURES LEFT TO IMPLEMENT</a>
+    </li>
+    <li>
+    <a href="#technologies-used">TECHNOLOGIES USED</a>
+    </li>
+    <li>
+    <a href="#testing">TESTING</a>
+    </li>
+    <li>
+    <a href="#deployment">DEPLOYMENT</a>
+    </li>
+    <li>
+    <a href="#credits">CREDITS</a>
+    </li>
 </ol>
- <h2>
-  <a id="user-content-ux" class="anchor" aria-hidden="true" href="#ux"></a>
+<h2>
+    <a id="user-content-ux" class="anchor" aria-hidden="true" href="#ux"></a>
 UX</h2>
 
- <p>This is an online store which has a variety of products relating to the Celtic Culture found throughout Europe and UK.  Every product has an image and a product description and also a price which is set as GB Pounds.  The user can just browse the products, alternatively, the user can register their details, login and logout, and also purchase the products using the online payment system.</p>
-  <p>There is an opportunity for the user to register their details such as email address, password, username, these are essential if the user wishes to purchase any products.</p>
-  <p>The online payment system is active, therefore, caution needs to heeded here as if the user enters valid card details their card will debited.  But as these products are ficticious (as I don't own them) this will impact the user financially and give a poor user experience.  But for testing purposes, I encourage the user to test purchasing using the 4242 test card method.</p>
-  <p>Password changes synced through Google Mail, therefore, any user can change their password (password reset if the orginal password is fogotten).</p>
-   <h2>
-  <a id="user-content-features" class="anchor" aria-hidden="true" href="#features"></a>
-Features</h2>
+<p>This is an online store which has a variety of products relating to the Celtic Culture found throughout Europe and UK. Every product has an image and a product description and also a price which is set as GB Pounds. The user can just browse the products, alternatively, the user can register their details, login and logout, and also purchase the products using the online payment system.</p>
+
+<p>There is an opportunity for the user to register their details such as email address, password, username, these are essential if the user wishes to purchase any products.</p>
+
+<p>The online payment system is active, therefore, caution needs to heeded here as if the user enters valid card details their card will debited. But as these products are ficticious (as I don't own them) this will impact the user financially and give a poor user experience. But for testing purposes, I encourage the user to test purchasing using the 4242 test card method.</p>
+
+<p>Password changes synced through Google Mail, therefore, any user can change their password (password reset if the original password is fogotten).</p>
+
+<h2>
+    <a id="user-content-features" class="anchor" aria-hidden="true" href="#features"></a>
+FEATURES
+</h2>
+
+<p>Firstly, the user can view all the images of celtic antiquities, each has its own descriptive history and purchase price.  All of these images can be found by clicking the Celtic Antiquities heading on the navbar.</p>
+
+<p>Secondly, the user, if interested can register their details which will gain them full access to the site.  This will entail selecting items they wish to purchase and using the built in payment system (more information relating to payments further in the section).</p>
+
+<p>Thirdly, there is an active search facility where the user can type in a word and if there is a match, the item(s) will then be displayed on their own - this will give the user a clearer view of the searched products on display.</p>
+
+<p>Finally, There are contact details at the footer of the page if any user is experiencing problems with the site - this is an added extra to be proactive with the user.</p>
+
 <ol>
-  <li>
- <h3>
-  <a id="user-content-home-page" class="anchor" aria-hidden="true" href="#home-page"></a>
-Home Page</h3>
+    <li>
+<h3>
+    <a id="user-content-home-page" class="anchor" aria-hidden-"true" href="#home-page"></a>
+Home Page
+</h3>
 
- <p>This page gives the user all the products that are for sale with prices and a search box where the user can enter key words to assist.  It also has Register & Login and shopping cart icons which are active on the navigation bar.</p>
+<p>The home page gives the user a list of 12 individual items which are stored inside the Django database.  These items all have an image and a desription including a website price.  The items are laid out in rows inside individual boxes.  This give a clean feel to the site.</p>
+<p>There is also a navbar (further details later on in the section), a simple but clean heading image and a footer which has contact details for the user to use.</p>
+<p>By clicking the title on the navbar - this will return the user to the home page - it is visible wherever the user is on the site.</p>
+    </li>
+    <li>
+<h3>
+    <a id="user-content-register-page" class="anchor" aria-hidden="true" href="#register-page"></a>
+Register Page
+</h3>
 
-  </li>
- <li>
- <h3>
-  <a id="user-content-login-page" class="anchor" aria-hidden="true" href="#login-page"></a>
-Login Page</h3>
+<p>This page has 4 form fields for the user to fill out.  Ranging from the user email address, username, password & password confirmation.  It is a standard registration form with a button which the user clicks to register all the details that they have just entered.</P>
 
- <p>This page gives the user a tasting session of 5 tracks by the band (again including a write up of each track) but also a discography of albums released by the band.</p>
+<p>If a user who has previously registered but accidently arrives at this page, there is a link which the user can click and it link to the sign in form page.</p>
 
-  </li>
-  <li>
- <h3>
-  <a id="user-content-tour-dates-page" class="anchor" aria-hidden="true" href="#tour-dates-page"></a>
-Tour Dates Page</h3>
+<p>The logo, navbar and footer are still visible on this page - this shows the user that all these forms are all inside the site - no external links.</p>
+    </li>
+    <li>
+<h3>
+    <a id="user-content-login-page" class="anchor" aria-hidden="true" href="#login-page"></a>
+Login Page
+</h3>
 
- <p>This page gives the user information relating to forthcoming tours the band have planned.  Also, there is a fans video showcasing the band playing live at a previous gig.</p>
-
-  </li>
-  <li>
- <h3>
-  <a id="user-content-Contact-page" class="anchor" aria-hidden="true" href="#contact-page"></a>
-Contact Page</h3>
-
- <p>This page gives the user an opportunity to submit a form to the band.  Although, all the fields can be filled out, the link to the band is not active and it is outside the remit of this project.  But the form itself is again user friendly.</p>
-
-  </li>
-  <li>
- <h3>
-  <a id="user-content-header" class="anchor" aria-hidden="true" href="#header"></a>
-Header</h3>
-
- <p>The header which is displayed on every page has a real stylish logo also the band name and their highest award they have received through album sales.</p>
-
-  </li>
-  <li>
- <h3>
-  <a id="user-content-footer" class="anchor" aria-hidden="true" href="#footer"></a>
-Footer</h3>
-
- <p>The footer which is displayed on every page has more information of the band, more details of their awards and the required social links.  These links highlight when hovered over but as previously mentioned, they are inactive and do not link to any external sites.</p>
-
-  </li>
- <li>
- <h3>
-  <a id="user-content-navbar" class="anchor" aria-hidden="true" href="#navbar"></a>
-Navbar</h3>
-
- <p>Centrally placed links with subtle animation and the use of fontawesome was integral.  The choice of colours also reflected the symmetry of the project and designed to give the user a pleasurable experience.  
-</p>
-
-  </li>
- <li>
- <h3>
-  <a id="user-content-audio-player" class="anchor" aria-hidden="true" href="#audio-player"></a>
-Audio Player</h3>
-
- <p>Standard HTML5 audio player with enhanced but subtle animations which again, is designed to the user a pleasurable experience.</p>
-
-  </li>
-  <li>
- <h3>
-  <a id="user-content-video-player" class="anchor" aria-hidden="true" href="#video-player"></a>
-Video Player</h3>
-
- <p>Standard HTML5 video player using iframe, source of video was taken from youtube.com.  The video player can play full screen if the user requires but the default size matches the structure of the page.</p>
-
-  </li>
-  <li>
- <h3>
-  <a id="user-content-booking-form" class="anchor" aria-hidden="true" href="#booking-form"></a>
-Booking Form</h3>
-
- <p>The booking form were taken from Bootstrap forms but customised to suit the purpose of this project.  The form fields all work but there is no post method for the form as again, it is outside the remit of this project.</p>
-
-  </li>
- </ol>
- <h2>
-  <a id="user-content-features-left-to-implement" class="anchor" aria-hidden="true" href="#features-left-to-implement"></a>
-Features Left To Implement</h2>
-
- <p>Would have liked to design a purpose-built audio player which would have every album listed with their tracks, designed in a 60’s theme jukebox.</p>
-
- <h2>
-  <a id="user-content-technologies-used" class="anchor" aria-hidden="true" href="#technologies-used"></a>
-Technologies Used</h2>
-
- <p>The framework used was bootstrap (see link https://getbootstrap.com/) which also gave me the CSS stylesheets that was required. These gave me the structure that I required. 
-I was impressed by one of the tutorials demonstrating different fonts and therefore I included fontawesome (see link https://fontawesome.com/). 
-For all the hover tricks I went to https://cdnjs.com/.  All the technologies used was encouraged by various tutors in the modules and using their knowledge and experience it was very useful.  Not only the usefulness but also an understanding a new coder needs to learn and implement with confidence.</p>
-
- <h2>
-  <a id="user-content-testing" class="anchor" aria-hidden="true" href="#testing"></a> 
-Testing</h2>
-
- <p>Using Chrome as my default browser I used its development tools to check the responsiveness of the website through various screen sizes.  I had already put @mediaquery in the CSS stylesheets and checked each page individually.  
-All hover buttons work, audio files play and also the video file plays.  
-The form in the contact page can be accessed in any screen size and notifications are present when you place the mouse pointer over each individual form box.
-I have run the CSS through a validation site (see link https://jigsaw.w3.org/css-validator/)</p>
-        <p><a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-         src="http://jigsaw.w3.org/css-validator/images/vcss"
-         alt="Valid CSS!"href="#deployment"></a>
-        </p>
-
- <h2>
-  <a id="user-content-deployment" class="anchor" aria-hidden="true" href="#deployment"></a>
-Deployment</h2>
-
- <p>This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.</p>
-
-<p>To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://amzn1963.github.io/iron_butterfly/ into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.</p>
- 
- <h2>
-  <a id="user-content-credits" class="anchor" aria-hidden="true" href="#credits"></a>
-Credits</h2>
-
-<p>The text for the home page (the band) was taken from www.ironbutterfly.com</p>
-<p>The text for the home page (band info) was taken from Wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly</p>
-<p>The bio used for each track on the music page was taken from Classic Rock https://www.classicrockhistory.com/top-10-iron-butterfly-songs/</p>
-<p>The 5 audio tracks on the music page are from my own personal music collection.</p>
-<p>The discography on the music page was taken from Wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly</p>
-<p>The text for the tour dates page was taken from Bands in Town https://www.bandsintown.com/</p>
-<p>The fans video on the tour dates page was taken from https://www.bandsintown.com/</p>
-<p>The booking form on the contacts page was taken from a design used in one of the modules of the course but modified to suit.</p>
-<p>The logo and footer text for the band was taken from www.ironbutterfly.com</p>
-<p>All content taken from www.ironbutterfly.com was agreed by Mike Green (percussionist) via phone conversation.</p>
-<p><strong>Special thanks go to one of my work colleagues Phil Harlow who suggested Iron Butterfly.</strong></p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p>Once you have registered your details - by clicking the login tab on the navbar, the page changes to a pre-designed form which gives you two boxes to fill out - Username & password. When the users details have been entered there is a login button the user can click and entry to the website has been granted.</p>
+<p>There is also a link where the user can click if they require to reset their password.  They will receive a confirmation email to their specified email address when they reset their password.</p>
+    </li>
+    <li>
 
 
