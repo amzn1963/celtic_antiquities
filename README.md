@@ -14,7 +14,7 @@ Table of Contents</h2>
     </li>
     <li>
     <a href="#features">FEATURES</a>
-        <ol>
+        <ul>
     <li>
     <a href="#home-page">Home Page</a>
     </li>
@@ -36,7 +36,7 @@ Table of Contents</h2>
     <li>
     <a href="#search-facility">Search Facility</a>
     </li>
-        </ol>
+        </ul>
     <li>
     <a href="#features-left-to-implement">FEATURES LEFT TO IMPLEMENT</a>
     </li>
@@ -107,8 +107,8 @@ Register Page
 Login Page
 </h3>
 
-<p>Once you have registered your details - by clicking the login tab on the navbar, the page changes to a pre-designed form which gives you two boxes to fill out - Username & password. When the users details have been entered there is a login button the user can click and entry to the website has been granted.</p>
-<p>There is also a link where the user can click if they require to reset their password.  They will receive a confirmation email to their specified email address when they reset their password.</p>
+<p>Once the user have registered their details - by clicking the login tab on the navbar, the page changes to a pre-designed form which gives the two boxes to fill out - Username & password. When the users details have been entered there is a login button the user can click and entry to the website has been granted.</p>
+<p>There is also a link where the user can click if they require to reset their password.  The user will receive a confirmation email to their specified email address where they reset their password.</p>
     </li>
     <li>
 
