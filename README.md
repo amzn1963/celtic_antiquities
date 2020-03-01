@@ -1,4 +1,3 @@
-https://media.giphy.com/media/MBOvUAZraGvlOabZoy/giphy.gif
 [![Build Status](https://travis-ci.org/amzn1963/celtic_antiquities.svg?branch=master)](https://travis-ci.org/amzn1963/celtic_antiquities)
 <h1>
 <a id="user-content-celtic-antiquities" class="anchor" aria-hidden="true" href="#celtic-antiquities"></a>
