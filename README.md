@@ -4,7 +4,9 @@ https://media.giphy.com/media/MBOvUAZraGvlOabZoy/giphy.gif
 <a id="user-content-celtic-antiquities" class="anchor" aria-hidden="true" href="#celtic-antiquities"></a>
 Celtic Antiquities</h1>
 
-<p>This is the final milestone project which showcases an online store where users can browse the products for sale, register their details, login and logout and also pay for their purchases using a secure payment platform.</p>
+<p>This is a unfinished final milestone project which showcases an online store where users can browse the products for sale, register their details, login and logout and also pay for their purchases using a secure payment platform.</p>
+<p>Unfortunately, due to time contraints and access to AWS (which has ended) no images from the S3 bucket are being rendered and with this project being developed using Gitpod, with only one days notice, more time is required to complete.</p>
+<p>This being the case the README.md file is also unfinished as not functionality is working such as password reset and images which has been previously mentioned.</p>
 
 <h2>
 <a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents"></a>
